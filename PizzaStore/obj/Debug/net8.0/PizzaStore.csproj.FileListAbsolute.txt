@@ -23,3 +23,11 @@ C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\ref
 C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
 C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
 C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
+C:\Users\tarll\OneDrive\Área de Trabalho\DotNet\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
